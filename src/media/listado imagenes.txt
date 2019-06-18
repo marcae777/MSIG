@@ -1,0 +1,3 @@
+bg.jpeg		imagen de fondo para login
+logo.png	image de logo de login
+
