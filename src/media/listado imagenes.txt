@@ -1,3 +1,19 @@
-bg.jpeg		imagen de fondo para login
-logo.png	image de logo de login
+LOGIN:
+bg.jpeg		imagen de fondo para login 		../../media/bg.jpeg		insertada en el css
+logo.png	image de logo de login			../../media/logo.png
+
+
+FOOTER:
+	REDES:
+fb_ico.jpg	imagen de facebook para el footer	../../media/fb_ico.jpg
+tt_ico.png	imagen de twitter para el footer	../../media/tt_ico.png
+wt_ico.jpg	imagen de whatsapp para footer		../../media/wt_ico.jpg
+
+	CONTACTO:
+house.png	imagen para contacto del footer		../../media/house.png
+cell.jpg	imagen para número de cel footer	../../media/cell.jpg
+mail.jpg	imagen paara correo footer		../../media/mail.jpg
+
+
+
 
