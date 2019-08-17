@@ -6,18 +6,26 @@ function App() {
   return (
     <div className="App">
       <header className="App-header">
-        <img src={logo} className="App-logo" alt="logo" />
-        <p>
-          Edit <code>src/App.js</code> and save to reload.
-        </p>
-        <a
-          className="App-link"
-          href="https://reactjs.org"
-          target="_blank"
-          rel="noopener noreferrer"
-        >
-          Learn React
-        </a>
+
+        <div class="login-box">
+          <img class="avatar" src="../../src/media/logo.png" alt="logo de login"/>
+          <h1>Login Here</h1>
+          <form>
+
+            <label for="username">username</label>
+            <input type="text" placeholder="Enter username"/><br/>
+
+            <label for="password">password</label>
+            <input type="password" placeholder="Enter password"/><br/>
+
+            <input type="submit" value="Continue"/><br/>
+
+            <a href="#">lost you password?</a><br/>
+            <a href="#">don´t have a account?</a>
+
+          </form>
+        </div>
+        
       </header>
     </div>
   );
