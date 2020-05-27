@@ -8,7 +8,7 @@ function App() {
       <header className="App-header">
 
         <div class="login-box">
-          <img class="avatar" src="../../src/media/logo.png" alt="logo de login"/>
+          <img class="avatar" src="D:\dev\MSIG\msig-ui\src\media" alt="logo de login"/>
           <h1>Login Here</h1>
           <form>
 
